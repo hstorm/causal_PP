@@ -22,7 +22,7 @@ This requires that you have the VS Dev-Containers extension installed (Extension
 
 Follow the instructions to do this:
 
-1. Clone the repository: `git clone https://github.com/hstorm/red_area.git`
+1. Clone the repository: `git clone https://github.com/hstorm/causal_PP.git`
 2. Open the clone folder in VS Code and hit `Ctrl+Shift+P` and select `Remote-Containers: Reopen in Container`. 
 
 *Note: Ideally, you should have a Nvidia GPU installed on your machine to run the code. However, it is not strictly necessary. Depeding on you machine you might need to adjust the .devcontainer/devcontainer.json file for example in terms of the memory limite or GPU usage.*
