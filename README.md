@@ -6,11 +6,11 @@ Implementing typical causal regression approaches in Probabilistic Programming u
 
 # Available Notebooks
 
-- ```notebooks/CallawaySantAnna_in_PP.ipynb```: Implements the Callaway and Sant'Anna (2021) approach for estimating treatment effects in staggered adoption settings using NumPyro.
+- [```notebooks/CallawaySantAnna_in_PP.ipynb```](https://github.com/hstorm/causal_PP/blob/main/notebooks/CallawaySantAnna_in_PP.ipynb): Implements the Callaway and Sant'Anna (2021) approach for estimating treatment effects in staggered adoption settings using NumPyro.
 
-- ```notebooks/IV_in_pp.ipynb```: Implements a simple instrumental variable regression model in NumPyro
+- [```notebooks/IV_in_pp.ipynb```](https://github.com/hstorm/causal_PP/blob/main/notebooks/IV_in_pp.ipynb): Implements a simple instrumental variable regression model in NumPyro
 
-- ```notebooks/joint_causal_models.ipynb```: Implements a joint model combining a staggered adoption DiD model with IV regression in NumPyro.
+- [```notebooks/joint_causal_models.ipynb```](https://github.com/hstorm/causal_PP/blob/main/notebooks/joint_causal_models.ipynb): Implements a joint model combining a staggered adoption DiD model with IV regression in NumPyro.
 
 
 # Prerequisites
