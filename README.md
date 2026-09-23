@@ -12,6 +12,7 @@ Implementing typical causal regression approaches in Probabilistic Programming u
 
 - [```notebooks/joint_causal_models.ipynb```](https://github.com/hstorm/causal_PP/blob/main/notebooks/joint_causal_models.ipynb): Implements a joint model combining a staggered adoption DiD model with IV regression in NumPyro.
 
+- [```notebooks/Bayesian_t_test.ipynb```](https://github.com/hstorm/causal_PP/blob/main/notebooks/Bayesian_t_test.ipynb): Implements a Bayesian t-test in NumPyro (not strictly a causal model, but maybe nevertheless useful).
 
 # Prerequisites
 
